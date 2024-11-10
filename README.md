@@ -1,2 +1,2 @@
-# cookingLog.github.io
+# cookingLogPage
 Simple website to showcase cooking log. 
